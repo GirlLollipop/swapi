@@ -33,7 +33,7 @@ function drawData(data) {
         cardMovies += `<div class ="row">
     <div class="card col s12 m8 l5 card-height ">
     <div class="card-image waves-effect waves-block waves-light">
-    <img class="activator" src=${imgMovie}>
+    <img class="activator img-card" src=${imgMovie}>
     </div>
     <div class="card-content">
     <span class="card-title activator grey-text text-darken-4">${movie}<i class="material-icons right">add_circle</i></span>
