@@ -1,0 +1,10 @@
+#body {
+    background-image: url("assets/images/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-height {
+    height: 85vh;
+    margin: 5%;
+}
