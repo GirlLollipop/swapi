@@ -31,7 +31,7 @@ function drawData(data) {
             characters += `<p><a class="modal-trigger" href="#modal1">${personaje}</a></p>`
         })
         cardMovies += `<div class ="row">
-    <div class="card col s12 m8 l5 card-height ">
+    <div class="card col s10 m8 l5 card-height ">
     <div class="card-image waves-effect waves-block waves-light">
     <img class="activator img-card" src=${imgMovie}>
     </div>

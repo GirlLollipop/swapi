@@ -7,16 +7,18 @@ body {
 }
 
 .card-height {
-    height: 85vh;
+    height: 65vh;
     margin: 8%;
 }
 
 .img-logo{
-    width: 50%;
+    width: 70%;
     height: 30vh;
     margin-top: 5vh;
 }
  
 .img-card{
     padding: 2%;
+    width: 30%;
+    height: 30vh;
 }
